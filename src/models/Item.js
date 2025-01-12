@@ -29,6 +29,5 @@ export default class Item {
         this.name = name;
         this.price = price;
         this.quantity = quantity;
-        this.subtotal = price * quantity;
     }
 }
